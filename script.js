@@ -46,7 +46,7 @@ $(document).ready(function () {
     });
   
     var typed = new Typed(".typing2", {
-      strings: ["React.js Developer", "Front End Developer", "Youtuber", "Teacher"],
+      strings: ["React.js Developer", "Front End Developer", "UX-Designer", "Freelancer"],
       typeSpeed: 100,
       backSpeed: 60,
       loop: true,
